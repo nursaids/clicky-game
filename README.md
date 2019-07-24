@@ -2,6 +2,7 @@ React game that test your memory by guessing
 
 ## React game that test your memory by guessing
 
+- ![Alt text](public/demo.png?raw=true  "demo")
 
 In the project directory, you can run:
 
